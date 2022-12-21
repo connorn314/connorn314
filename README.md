@@ -8,6 +8,6 @@
 
 ### My Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,ruby,py,react,rails,express,nodejs,jquery,sqlite,postgres,html,css,webpack,aws,vscode, git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ruby,py,react,rails,express,nodejs,jquery,sqlite,postgres,html,css,webpack,aws,vscode,git)](https://skillicons.dev)
 
 
