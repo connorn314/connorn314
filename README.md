@@ -1,8 +1,8 @@
 ## 👋 Hi there, I'm Connor
 
-- 🔭 Take a look at my [Portfolio Site](https://connorn314.github.io/Porfolio-Site/) or my recent full-stack project, [Eventlite (Repo link)](https://github.com/connorn314/Eventlite-Full-Stack).
-- 🌱 I’m currently working on an IOS mobile app in Swiftui for viewing podcast analytics from Simplecast's podcast hosting platform.
-- 🤔 I’m looking for innovative teams that care about the impact of their product on each of their user's lives.
+- 🔭 Take a look at my [Portfolio Site](https://connorn314.github.io/Porfolio-Site/).
+- 🌱 I’m currently working as a Software Engineer with [Tongo](https://get.tongo.app/) on a part time basis, the other portion of my time I spend developing an [IOS mobile app](https://github.com/connorn314/Cast-alytics) with Swiftui (allows [Simplecast](https://dashboard.simplecast.com/accounts/d11aa631-892e-4f6c-a355-b3ee6beeb296/shows/cdeac5f4-4d81-4626-9b04-03170af3ecf8/) users to view analytics from their hosting platform).
+- I'm still actively searching for full-time opportunities with small fast moving application development teams!
 - 💬 Ask me about anything!
 - 📫 How to reach me: email me at connorn314@gmail.com or message me on [Linkedin](https://www.linkedin.com/in/connor-norton-318b0a19a/).
 
