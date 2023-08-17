@@ -9,9 +9,4 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,react,nodejs,firebase,py,ruby,rails,postgres,aws,tailwind,git)](https://skillicons.dev)
 
-## My Stats
-
-
-![Connor's GitHub stats](https://github-readme-stats.vercel.app/api?username=connorn314&show_icons=true&theme=transparent)
-
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=connorn314&layout=compact)](https://github.com/connorn314/github-readme-stats)
