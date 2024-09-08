@@ -1,7 +1,7 @@
 ## 👋 Hi there, I'm Connor
 
-- 🌱 I’m currently working as a Founding Software Engineer with [Tongo](https://get.tongo.app/).
-- :atom_symbol: Most interested in building a React Native App with Expo at the moment.
+- 🌱 I’m currently working as a Software Engineer with [Tongo](https://get.tongo.app/).
+- :atom_symbol: Most interested in building a React Native App with Expo at the moment (Project Repo "letsPush" is pinned below).
 - 💬 Ask me about anything!
 - 📫 How to reach me: email me at connorn314@gmail.com or message me on [Linkedin](https://www.linkedin.com/in/connor-norton-318b0a19a/).
 
